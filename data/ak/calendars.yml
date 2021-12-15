@@ -1,0 +1,19 @@
+---
+ak:
+  calendars:
+    gregorian:
+      months:
+        format:
+          abbreviated:
+            1: S-Ɔ
+            2: K-Ɔ
+            3: E-Ɔ
+            4: E-O
+            5: E-K
+            6: O-A
+            7: A-K
+            8: D-Ɔ
+            9: F-Ɛ
+            10: Ɔ-A
+            11: Ɔ-O
+            12: M-Ɔ
