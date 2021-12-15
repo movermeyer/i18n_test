@@ -1,3 +1,3 @@
 # i18n_test
 
-Each test is in a separate branch
+This is a test of the interaction between fallbacks and symbol values in translation files.
